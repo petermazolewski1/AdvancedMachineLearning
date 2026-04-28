@@ -1,0 +1,37 @@
+# Python virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Cursor editor (you use this)
+.cursor/
+
+# Data files (optional - uncomment if needed)
+# *.csv
+# *.parquet
+
+# OS files
+Thumbs.db

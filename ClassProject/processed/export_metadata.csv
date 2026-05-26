@@ -1,0 +1,4 @@
+Customer,Date Range,Hour Range,Days of the Week,Time Interval,export_period,source_file
+Occuspace,05/01/2023 - 05/01/2024,6 - 23,Sun - Sat,30min,2023-05_to_2024-05,-30minExport-1May23-1May24.csv
+Occuspace,06/01/2024 - 06/01/2025,6 - 23,Sun - Sat,30min,2024-06_to_2025-06,-30minExport-1Jun24-1Jun25.csv
+Occuspace,06/01/2025 - 04/15/2026,6 - 23,Sun - Sat,30min,2025-06_to_2026-04,-30minExport-1Jun25-15Apr26.csv
